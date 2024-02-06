@@ -4,7 +4,7 @@
 
 Once the dataset is loaded, what's the shape of the data?
 
-<img src="answer1.jpg" />
+<img src="./answer1.jpg" style="height: 200px; width:480px;"/>
 
 * 266,855 rows x 20 columns <<==
 * 544,898 rows x 18 columns
@@ -14,6 +14,8 @@ Once the dataset is loaded, what's the shape of the data?
 ## Question 2. Data Transformation
 
 Upon filtering the dataset where the passenger count is greater than 0 _and_ the trip distance is greater than zero, how many rows are left?
+
+<img src="./answer2.jpg" style="height: 200px; width:480px;"/>
 
 * 544,897 rows
 * 266,855 rows
@@ -33,6 +35,8 @@ Which of the following creates a new column `lpep_pickup_date` by converting `lp
 
 What are the existing values of `VendorID` in the dataset?
 
+<img src="./answer4.jpg" />
+
 * 1, 2, or 3
 * 1 or 2 <<==
 * 1, 2, 3, 4
@@ -42,6 +46,8 @@ What are the existing values of `VendorID` in the dataset?
 
 How many columns need to be renamed to snake case?
 
+<img src="./answer5.jpg" />
+
 * 3
 * 6
 * 2
@@ -50,6 +56,8 @@ How many columns need to be renamed to snake case?
 ## Question 6. Data Exporting
 
 Once exported, how many partitions (folders) are present in Google Cloud?
+
+<img src="./answer6.jpg" />
 
 * 96 <<==
 * 56
