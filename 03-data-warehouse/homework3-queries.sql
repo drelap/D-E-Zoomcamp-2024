@@ -10,8 +10,6 @@ SELECT DISTINCT PULocationID FROM `polished-engine-412507.ny_taxi.external_green
 
 SELECT DISTINCT PULocationID FROM `polished-engine-412507.ny_taxi.green_tripdata_2022_non_partitioned`
 
-0 MB for the External Table and 6.41MB for the Materialized Table
-
 
   ------------------------------------------------------------  
 
