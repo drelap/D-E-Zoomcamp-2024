@@ -9,7 +9,9 @@ City Taxi Data found here:
 
 [https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
-The files were loaded into GCS bucket with this transfer method: [https://cloud.google.com/storage-transfer/docs/create-transfers](https://cloud.google.com/storage-transfer/docs/create-transfers#url-list), using a TSV file: [green2022.tsv](https://github.com/drelap/D-E-Zoomcamp-2024/blob/main/03-data-warehouse/green2022.tsv)
+> - - -
+> The files were loaded into GCS bucket with this transfer method: [https://cloud.google.com/storage-transfer/docs/create-transfers](https://cloud.google.com/storage-transfer/docs/create-transfers#url-list), using a TSV file: [green2022.tsv](https://github.com/drelap/D-E-Zoomcamp-2024/blob/main/03-data-warehouse/green2022.tsv).
+> - - -
 
 NOTE: You will need to use the PARQUET option files when creating an External Table
 
