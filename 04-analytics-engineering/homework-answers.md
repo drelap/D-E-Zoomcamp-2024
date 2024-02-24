@@ -68,7 +68,7 @@ Create a dashboard with some tiles that you find interesting to explore the data
 
 * Form for submitting: https://courses.datatalks.club/de-zoomcamp-2024/homework/hw4
 
-Deadline: 22 February (Thursday), 22:00 CET
+Deadline: 24 February (Thursday), 23:00 CET
 
 
 ## Solution (To be published after deadline)
