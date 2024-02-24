@@ -14,7 +14,6 @@ Pre-reqs:
 3. Set GCP_GCS_BUCKET as your bucket or change default value of BUCKET
 """
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="/home/andre/temp/gcp-key.json"
 # services = ['fhv','green','yellow']
 init_url = 'https://github.com/DataTalksClub/nyc-tlc-data/releases/download/'
 # switch out the bucketname
