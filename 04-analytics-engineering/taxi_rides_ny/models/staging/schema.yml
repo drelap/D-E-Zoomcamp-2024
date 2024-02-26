@@ -230,3 +230,5 @@ models:
         data_type: string
         description: ""
 
+  - name: fhv_tripdata
+    description: ""
